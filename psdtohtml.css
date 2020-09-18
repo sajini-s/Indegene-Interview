@@ -1,0 +1,164 @@
+header{
+    position: relative;
+    height: 50px;
+    background-color: black;
+    border-radius: 5px;
+    background-color: white;
+}
+#logo{
+    height: 50px;
+    width: 50px;
+    padding-left: 50px;
+    margin-left: 20px;
+}
+nav{
+    height: 200px;
+    background-color:darkcyan;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+#firstP{
+    color: white;
+    font-family: Arial;
+    font-size: 30px;
+    margin-left: 100px;
+    padding-top: 25px;
+}
+#secondp{
+    color:aqua;
+    font-family: Arial;
+    font-size: 20px;
+    margin-left: 100px;
+    padding-top: -55px;
+}
+#read{
+    width: 100px;
+    height: 30px;
+    margin-bottom: 2px;
+    margin-left: 130px;
+    border-radius: 5px;
+    background-color:blue;
+    color: white;  
+    margin-top: -100px;
+}
+#top{
+    height: 170px;
+    width: 220px;
+    margin-top: -120px;
+    margin-left: 500px;
+}
+
+aside{
+    position: relative;
+    height: 250px;
+    width: 1170px;
+    margin-top: 5px;
+    border-radius: 5px;
+    background-color:lightgray;
+}
+#pics{
+    height: 200px;
+    width: 330px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+#photos{
+    height: 200px;
+    width: 330px;
+    margin-top: 10px;
+    margin-left: 500px;
+}
+article{
+    position: relative;
+    height: 80px;
+    width: 1170px;
+    border-radius: 5px;
+    background-color: darkcyan;
+    margin-top: -10px;
+}
+#articletext{
+    color: white;
+    text-align: center;
+    font-size: 25px; 
+    font-family: Arial;
+    padding-top: 20px;
+}
+footer{
+    position: relative;
+    height: 150px;
+    position: relative;
+    border-radius: 5px;
+    background-image: linear-gradient(black,grey);
+}
+#name{
+    color: aqua;
+    font-family: verdanas;
+    font-display: block;
+    font-size:25px;
+    text-align:center;
+    padding-bottom: -80px;
+    position: relative;
+        
+    padding-left:5px;
+}
+#hb{
+    width: 80px;
+    margin-top: -15px;
+    margin-bottom: 2px;
+    margin-left: 80px;
+    border-radius: 10px;
+    background-color:white;
+    color: black;
+    border-color: white;
+    border-bottom-color: white;
+    
+}
+#os{
+    width: 130px;
+    margin-top: -15px;
+    margin-left: 40px;
+    border-radius: 10px; 
+    background-color:white;
+    color: black;
+    border-color: white;
+      border-bottom-color: white;
+}
+#cb{
+    width: 80px;
+    margin-top: -15px;
+    margin-left: 40px;
+    border-radius: 10px;   
+    background-color:white;
+    color: black;
+    border-color: white;
+      border-bottom-color: white;
+}
+#contact{
+    width: 100px;
+    margin-top: 8px;
+    margin-left: 40px;
+    border-radius: 10px;  
+    background-color:white;
+    color: black;
+    border-color: white;
+    border-bottom-color: white;
+}
+#search{
+    width: 150px;
+    margin-top: 8px;
+    margin-left: 100px;
+    border-radius: 10px;  
+    background-color:white;
+    color: black;
+    border-color: white;
+    border-bottom-color: white;
+    
+} 
+#footertext{
+    color: black;
+    text-align: center;
+    padding-left: 90px;
+    padding-top: 5px;
+}
+
+  
